@@ -1,4 +1,4 @@
-# Mis 5 centavos
+# Mis diez pesos
 Microdonaciónes para proyectos
 
 Proyecto realizado para la Hackatrix 2019
